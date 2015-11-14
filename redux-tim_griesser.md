@@ -61,5 +61,12 @@ https://github.com/facebook/react/issues/4595
 
 simplicity
 
+Q&As 
 
+smart vs dumb components
+react would have just 1 top-down component w/ children
+make some children smarter?
 
+data-sync ?
+relay? falcore?
+something trying to bridge the gap
